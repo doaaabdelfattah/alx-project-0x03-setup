@@ -1,4 +1,4 @@
-import Button from "../components/layouts/Button";
+import Button from "../components/layout/Button";
 import { useRouter } from "next/router";
 import { PageRouteProps } from "@/interface";
 
